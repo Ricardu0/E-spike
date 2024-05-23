@@ -1,0 +1,24 @@
+Ola tudo bem?Espero que sim, aqui esta a documentacao V1 do front end.
+
+Passo a passo do que foi feito
+1- Instalar o node.js;
+
+2- Instalar o framework vue no cmd do windows atraves do comando:
+npm install -g vue-cli
+
+3-Foi feito o comando: vue create my-vue-project
+(nao é necessario fazer dnv, pq ja foi criado)
+
+4-npm install -g --force @vue/cli
+npm install -g @vue/cli
+(nao é necessario fazer)
+
+Para rodar o projeto
+no terminal:
+
+cd espike(vai acessar o diretorio)
+
+npm run serve
+(vai inicializar o servidor)
+
+para encerrar o servidor: apenas feche o cmd
